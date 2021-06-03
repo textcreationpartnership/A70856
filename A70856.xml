@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Prisoners of New-Gates condemnation declaring every verdict of the whole bench at the Sessions house in the Old Bayly, April 22 : with the Jesuits and fryers being censured by the Parliament ... also those 18 that were suspected to adjoyn with the Irish rebels ... : likewise a relation of him that killed Sir Henrie Paget ... : whereunto is annexed, more exceeding true and joyfull news from Ireland describing a great and bloudy battell fought in the Neweries by Sir Henry Tichbourn, Sir Charles Coot, and Captain Marro, with 3,000 men against 10,000 of the rebels, April 17, 1642.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70856</idno><idno type="EEBO-CITATION">12212115</idno>
+  <idno type="VID">56324</idno>
+  <idno type="EEBO-PROQUEST">2248576725</idno>
+  
+            <idno type="STC">Wing P3519</idno>
+            <idno type="STC">ESTC R18078</idno>
+            <idno type="OCLC">12212115</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A70856)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56324)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 115:8 or 251:E143, no 21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Prisoners of New-Gates condemnation declaring every verdict of the whole bench at the Sessions house in the Old Bayly, April 22 : with the Jesuits and fryers being censured by the Parliament ... also those 18 that were suspected to adjoyn with the Irish rebels ... : likewise a relation of him that killed Sir Henrie Paget ... : whereunto is annexed, more exceeding true and joyfull news from Ireland describing a great and bloudy battell fought in the Neweries by Sir Henry Tichbourn, Sir Charles Coot, and Captain Marro, with 3,000 men against 10,000 of the rebels, April 17, 1642.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>For H. Blunon,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"... him that killed Sir Henrie Paget" is Robert Butler.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Paget, Henry, --  Sir, d. 1642.</term>
+               <term type="personal_name">Butler, Robert, 17th cent.</term>
+               <term type="personal_name">Coote, Charles, --  Sir, d. 1642.</term>
+               <term type="personal_name">Marro, --  Captain.</term>
+               <term type="personal_name">Tichborne, Henry, --  Sir, 1581?-1667.</term>
+               <term type="geographic_name">Ireland --  History --  Rebellion of 1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56324:1"/>
+            <pb facs="tcp:56324:1"/>
+            <p>THE PRISONERS <hi>OF</hi> NEW-GATES CONDEMNATION.</p>
+            <p>Declaring every Verdict of the whole Bench at the Sessions House in the Old Bayly. <hi>April</hi> 22</p>
+            <p>With the Jesuits and Fryers being censured by the Parliament, five Fryers being examined by a Committee in the Court of Wards, With their Con<g ref="char:EOLhyphen"/>fessions at the same time, Also those 18. that were suspected to adjoyn with the Irish Rebels, with a Pilgrim, and four more Irish souldiers.</p>
+            <p>Likewise a Relation of him that killed Sir <hi>Henrie Paget,</hi> and many other Fellons. With the Names of every particular one.</p>
+            <p>Wherunto is annexed, more Exceeding true and joyfull News from <hi>Ireland,</hi> Describing a great and Bloudy Battell fought in the Neweries, by Sir <hi>Henry Tichbourn,</hi> Sir <hi>Charles Coot,</hi> and C<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ptain <hi>Marro,</hi> with 3000. men, against 10000. of the Rebels, April 17. 1642.</p>
+            <p>Imprinted at <hi>London,</hi> for <hi>H. Blunon.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:56324:2"/>
+            <pb facs="tcp:56324:2"/>
+            <div type="account_of_prisoners_condemnation">
+               <head>THE <hi>PRISONERS OF New-Gates Condemnation.</hi>
+               </head>
+               <p>NEw-Gate hath not bin more re<g ref="char:EOLhyphen"/>plenished with Prisoners these many years then now, there being very nigh 300. prisoners committed to that infamous Castle of Misery.</p>
+               <p>But not to deviate too far, or to trespasse on the Readers patience with a tedious and preliminary discourse, I w ll abbreviate Hypotheticall super<g ref="char:EOLhyphen"/>fluities, and insist upon the intended subject.</p>
+               <p>But as the atracity of the crime, so the persons ought to precede: where<g ref="char:EOLhyphen"/>fore
+<pb facs="tcp:56324:3"/> I will begin first with the 7. con<g ref="char:EOLhyphen"/>demned Jesuits, these Popish Priests were heretofore condemned according to the Law, and Justice of the Realm, being apparently found such pernicious enemies to the state: but the Kings mercy being graciously extended to them, they obtained a Reprieve from His Majesty; <hi>Wherupon did arise a tu<g ref="char:EOLhyphen"/>multuous mutiny among the other Prisoners, who refused to dy without the Jesuits: but afterwards they were mittigated in a paci<g ref="char:EOLhyphen"/>fied tranquillity.</hi>
+               </p>
+               <p>Notwithstanding the Parliament petitioned to His Majesty, that Execution might be impo<g ref="char:EOLhyphen"/>sed on them; but the King would not condis<g ref="char:EOLhyphen"/>cend therunto, till His further pleasure: where<g ref="char:EOLhyphen"/>fore they have continued secure in New-gate e<g ref="char:EOLhyphen"/>ver since, one man being solely <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ccepted, <hi>viz. Goodman,</hi> who dyed last Good Friday, and at once deceived both Gregory and Tyburn.</p>
+               <p>But since the Parliament have repetitioned to His Majesty, that they may be now executed, in regard they were such obstacles to their assi<g ref="char:EOLhyphen"/>duous proceedings: His Majesty replyed, that if they were the obstruction, and hinderance of Reformation in the Church, hee desired that
+<pb facs="tcp:56324:3"/> they might be forthwith executed, without any further delay.</p>
+               <list>
+                  <head>The Names of the Iesuites.</head>
+                  <item>Rivers,</item>
+                  <item>Canon,</item>
+                  <item>Winfall,</item>
+                  <item>Norton,</item>
+                  <item>Haman,</item>
+                  <item>Coleman.</item>
+               </list>
+               <p>The 18. Irish men, that were suspe<g ref="char:EOLhyphen"/>cted to be Rebels, being formerly exa<g ref="char:EOLhyphen"/>mined before the <hi>Parliament,</hi> all the Servants, Sea-men, and Souldiers, were remitted, only the Master of the ship, the Captains, Lieutenants, and Ancients were detained, who still continue in the Prison: but they have not come as yet to their Examination before the Court; wherfore it is to be expected; the <hi>Parliament</hi> themselves will censure them.</p>
+               <p>The 10. that lately were committed to <hi>New Gate,</hi> five of which were Fry<g ref="char:EOLhyphen"/>ars, four souldiers, and a Pilgrim, were examined before the <hi>Parliament:</hi> the Fryars were examined last Wednesday
+<pb facs="tcp:56324:4"/> was sevennight, before a Committee in the Court of Wards, who demanded of them their intents, in comming over to <hi>Jreland,</hi> and to what effect: four of which very peremptorily denyed, and said, that they came over with occasi<g ref="char:EOLhyphen"/>ons of Merchandize, &amp;c. but one of them betrayed the rest, and affirmed, that they were Fryars, and came over into <hi>Eng<g ref="char:EOLhyphen"/>land</hi> to save souls for Heaven.</p>
+               <p>The other 5. were carryed down to <hi>Westminster</hi> last Saturday was a seven<g ref="char:EOLhyphen"/>night, before the same Committee in the Court of Wards</p>
+               <p>The Master of the ship being called first, did show a Commission un<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> them for his going; they then asked him, vvhither he vvould take the <hi>Oath of Allegiance,</hi> vvhich he vvas vvilling to take; but vvhen they asked him of the <hi>Oath of Supremacie,</hi> he replyed, that he was an ignorant man, and did not un<g ref="char:EOLhyphen"/>derstand what it meant: three of the other could not speak one word of English, wherfore the Master did inter<g ref="char:EOLhyphen"/>pret
+<pb facs="tcp:56324:4"/> what they spake: it seems by the exposition of the Master of the ship, that they have bin in service under the Prince of <hi>Orange</hi> half a year, they were taken Captives at <hi>Flanders,</hi> they served in <hi>France</hi> two years, and half a year in <hi>Spain,</hi> and now come into their own Country: this was their true and Re<g ref="char:EOLhyphen"/>all Confession before the Committee.</p>
+               <p>One <hi>Robert Butler,</hi> living formerly at the Bever Tavern in St. Giles in the Fields, who killed Sir <hi>Henry Paget,</hi> as was supposed in his own defence, was called before the Court last Thursday, but his Case is removed by the Lord <hi>Paget</hi> into the Kings-Bench.</p>
+               <p>One <hi>Francis Robson</hi> is cast for his life, for taking 100.l. from a Gentleman, scuffling in company, &amp;c.</p>
+               <p>
+                  <hi>Ame Hall</hi> is cast for her life, being taken for a Fellon.</p>
+               <p>One <hi>Sparrow</hi> likewise is cast, for sus<g ref="char:EOLhyphen"/>pition of taking a Chest of Plate out of an House.</p>
+            </div>
+            <div type="letter">
+               <pb facs="tcp:56324:5"/>
+               <head>More exceeding true and ioyfull Newes from <hi>Ireland.</hi>
+               </head>
+               <opener>
+                  <salute>Loving Brother:</salute>
+               </opener>
+               <p>ON the 4. of this month, I received your Letter, being sorry to hear such bad news from you; and wheras you writ to me, to send you word how passages went with us here, I thought it convenient, to send you these Oc<g ref="char:EOLhyphen"/>currences, following.</p>
+               <p>Vpon the 17. of this present month, there was a great and bloudy battell in the Neweries, fought between 3000 men of our side, under the Command of Sir <hi>Henrie Tichbourn,</hi> Sir <hi>Charles Coot,</hi> and <hi>Captain Marro,</hi> against 10000. of the Rebels, co<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ducted by the great Rebel <hi>Mondormo,</hi> and after a long and tedious Battel, they put the Rebels to flight, kild 2000. of them, and woun<g ref="char:EOLhyphen"/>ded the Lord <hi>Mondormo:</hi> of <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur side were slain 400. they are intended to fight a pitcht Battel a<g ref="char:EOLhyphen"/>bout the 25 day of this month. We had tydings brought to our Army, April 12. that Sir <hi>Phil my O-Neal</hi> hath got a great army, intending to give Battel against us in the Neweries. Captain <hi>Mar<g ref="char:EOLhyphen"/>ro</hi> received a Letter from Colonel <hi>Gore,</hi> in the North of <hi>Ireland,</hi> relating how they had defeated six Regiments of the rebels forces, but my Lord of <hi>Munster</hi> hath had some losse there.</p>
+               <closer>
+                  <signed>So I rest, your loving Brother <hi>J. Gilbert.</hi>
+                  </signed>
+               </closer>
+               <postscript>
+                  <p>Ordered by the Lords and Commons in Parliament, that the Lord <hi>Howard</hi> of <hi>Char,</hi> shall attend upon the King, and present some Reasons unto His Majesty.</p>
+                  <closer>
+                     <signed>John Brown Cler, Parl.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <pb facs="tcp:56324:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
